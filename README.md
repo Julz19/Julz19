@@ -5,7 +5,7 @@ Hey there! I'm Julian, but most people call me Julz. I'm a self-taught AI develo
 -I spend a significant amount of my time coding and continuously enhancing existing projects or starting new ones. The world of AI never ceases to amaze me, and I believe that
 
 # Contact
--Feel free to reach out to me via email at: [julian.acero19@AIventorLabs.onmicrosoft.com]. Whether it's about a project, collaboration opportunities, or just to chat about AI, I'm always happy to connect with like-minded individuals.
+-Feel free to reach out to me via email at: [julian.acero19@outlook.com]. Whether it's about a project, collaboration opportunities, or just to chat about AI, I'm always happy to connect with like-minded individuals.
 
 # Projects
 You'll find a diverse range of AI projects in my repositories. I'm constantly exploring new technologies and techniques to push the boundaries of what's possible with AI. I welcome feedback and contributions, so don't hesitate to jump in and share your ideas!
