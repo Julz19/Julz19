@@ -17,5 +17,5 @@ Remember, together we can make a real impact in the world of AI!
 
 # Connect with Me
 - GitHub: [https://www.github.com/Julz19]
-- Email: [julian.acero19@AIventorLabs.onmicrosoft.com]
+- Email: [julian.acero19@outlook.com]
 - LinkedIn: [https://www.linkedin.com/in/julian-acero]
